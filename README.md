@@ -2,7 +2,7 @@
 
 https://unikwalk.github.io/portfolio.html
 
-###Here's how the app works:
+### Here's how the app works:
 
 * There will be four crystals displayed as buttons on the page.
 * The player will be shown a random number at the start of the game.
@@ -15,7 +15,7 @@ https://unikwalk.github.io/portfolio.html
 * When the game begins again, the player will see a new random number. Also, all the crystals will have four new hidden values. The user's score (and score counter) will reset to zero.
 * The app will show the number of games the player wins and loses.
 
-#####Technology used:
+##### Technology used:
 * jQuery
 * CSS
 * HTML
