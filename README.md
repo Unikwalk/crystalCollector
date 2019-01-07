@@ -15,11 +15,11 @@ https://unikwalk.github.io/portfolio.html
 * When the game begins again, the player will see a new random number. Also, all the crystals will have four new hidden values. The user's score (and score counter) will reset to zero.
 * The app will show the number of games the player wins and loses.
 
-### Technology used:
+### Technologies used:
 * jQuery
 * CSS
 * HTML
 
-![Crystal Collector](assets/images/screenshot.png)
+!(assets/images/screenshot.png)
 
 
