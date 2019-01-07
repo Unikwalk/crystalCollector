@@ -20,6 +20,6 @@ https://unikwalk.github.io/portfolio.html
 * CSS
 * HTML
 
-![Crystal Collector](/assets/images/screenshot.png)
+![Crystal Collector](assets/images/screenshot.png)
 
 
